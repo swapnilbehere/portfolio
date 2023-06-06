@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Savitribai Phule Pune University, 2018-2022
-* PG.Diploma in AI ML, MIT-World Peace University, 2022-2023
-* M.S. in Computer Science and Engineering, Santa Clara University, 2014 (expected)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-<!--- Work experience
+Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,16 +25,16 @@ Education
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  * Supervisor: Professor Hub
   
 Skills
 ======
-* Python
-* AWS
-  * S3 Strorage
-  * EC2 instances
-  * Elastic Storage
-* DBMS
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ======
